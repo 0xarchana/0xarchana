@@ -1,7 +1,7 @@
 # Hello, <img src="./wave.gif" width="30px"> I am Archana Kumari 
 
 
- `I'm Archana Kumari. I am persuing 3rd year BTech in Information Technology from Guru Ghasidas University. I believe my fast learning abilities, commitment to succeed, and relevant studies make me the perfect fit for Industry roles. Well-organized, and able to handle a fast-paced work environment and interact in a courteous, helpful, and professional manner. I'm a self-motivated Developer. I found my interest in Web Development and started contributing on Github through projects. I never give up when it comes to finding a solution to a problem, hence willing to work in a challenging environment.`
+ `I'm Archana Kumari. I am persuing Final year BTech in Information Technology from Guru Ghasidas University. I believe my fast learning abilities, commitment to succeed, and relevant studies make me the perfect fit for Industry roles. Well-organized, and able to handle a fast-paced work environment and interact in a courteous, helpful, and professional manner. I'm a self-motivated Developer. I found my interest in Web Development and started contributing on Github through projects. I never give up when it comes to finding a solution to a problem, hence willing to work in a challenging environment.`
 
 
 
